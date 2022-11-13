@@ -838,3 +838,399 @@ Recommended: 30.0.101.1340
 [2022.11.13-18.36.33:097][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.11.13-18.36.33:121][879]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2022.11.13-18.36.33:121][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.39.12:228][202]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-18.39.12:244][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-18.39.12:248][202]PIE: New page: PIE session: Level_BallGame_1 (Nov 13, 2022, 4:39:12 AM)
+[2022.11.13-18.39.12:261][202]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.13-18.39.12:263][202]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.13-18.39.12:264][202]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_BallGame_1
+[2022.11.13-18.39.12:270][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006493s)
+[2022.11.13-18.39.12:271][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_BallGame_1.Level_BallGame_1 to /Game/Maps/UEDPIE_0_Level_BallGame_1.Level_BallGame_1 (0.007045s)
+[2022.11.13-18.39.12:271][202]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-18.39.12:271][202]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.39.12:272][202]LogAIModule: Creating AISystem for world Level_BallGame_1
+[2022.11.13-18.39.12:272][202]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2022.11.13-18.39.12:303][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.13-18.39.12:323][202]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.13-18.39.12:323][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-18.39.12:323][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-18.39.12:323][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-18.39.12:323][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-18.39.12:323][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-18.39.12:323][202]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.13-18.39.12:323][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-18.39.12:323][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-18.39.12:323][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-18.39.12:323][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-18.39.12:323][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-18.39.12:327][202]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.13-18.39.12:357][202]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.13-18.39.12:357][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-18.39.12:357][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-18.39.12:357][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-18.39.12:358][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.13-18.39.12:358][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.13-18.39.12:359][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.13-18.39.12:359][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.13-18.39.12:359][202]LogInit: FAudioDevice initialized.
+[2022.11.13-18.39.12:360][202]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_BallGame_1'.
+[2022.11.13-18.39.12:387][202]LogLoad: Game class is 'GM_Speedball_C'
+[2022.11.13-18.39.12:391][202]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_BallGame_1.Level_BallGame_1 up for play (max tick rate 60) at 2022.11.13-11.39.12
+[2022.11.13-18.39.12:394][202]LogWorld: Bringing up level for play took: 0.004002
+[2022.11.13-18.39.12:398][202]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.11.13-18.39.12:443][202]PIE: Server logged in
+[2022.11.13-18.39.12:444][202]PIE: Play in editor total start time 0.207 seconds.
+[2022.11.13-18.39.14:632][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-18.39.14:632][247]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_BallGame_1
+[2022.11.13-18.39.14:632][247]LogWorld: UWorld::CleanupWorld for Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.39.14:633][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.39.14:653][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-18.39.14:658][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.39.14:686][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-18.39.14:693][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.13-18.39.14:695][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.13-18.39.14:700][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-18.39.14:781][247]LogUObjectHash: Compacting FUObjectHashTables data took  12.57ms
+[2022.11.13-18.39.14:796][248]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.11.13-18.39.24:351][573]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Player_stats.Player_stats
+[2022.11.13-18.39.24:352][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.39.24:404][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.39.24:950][573]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.13-18.39.24:950][573]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.13-18.40.44:492][976]LogSlate: Window 'Player_stats' being destroyed
+[2022.11.13-18.40.44:504][976]LogSlate: Window 'Player_stats' being destroyed
+[2022.11.13-18.40.44:512][976]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.40.44:513][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.40.44:528][976]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.40.44:528][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.41.17:602][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.41.17:604][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.41.17:604][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.41.17:605][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.41.17:605][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.41.17:606][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.41.17:606][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.41.17:607][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.41.17:612][846]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.41.17:613][846]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.41.17:613][846]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.41.17:641][846]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SimpleChop_B...
+[2022.11.13-18.41.17:641][846]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/SimpleChop_B.SimpleChop_B will be modified from 40 to 40.
+[2022.11.13-18.41.17:649][846]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 88200 while cooking SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/SimpleChop_B.SimpleChop_B.
+[2022.11.13-18.41.17:649][846]LogAudio: Display: Chunk size for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/SimpleChop_B.SimpleChop_B: 262144
+[2022.11.13-18.41.17:651][846]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Footstep_Stone1_0...
+[2022.11.13-18.41.17:651][846]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Stone1_0.Footstep_Stone1_0 will be modified from 40 to 40.
+[2022.11.13-18.41.17:655][846]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 67980 while cooking SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Stone1_0.Footstep_Stone1_0.
+[2022.11.13-18.41.17:655][846]LogAudio: Display: Chunk size for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Stone1_0.Footstep_Stone1_0: 262144
+[2022.11.13-18.41.17:656][846]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Footstep_Stone2_0...
+[2022.11.13-18.41.17:657][846]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Stone2_0.Footstep_Stone2_0 will be modified from 40 to 40.
+[2022.11.13-18.41.17:663][846]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 78716 while cooking SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Stone2_0.Footstep_Stone2_0.
+[2022.11.13-18.41.17:663][846]LogAudio: Display: Chunk size for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Stone2_0.Footstep_Stone2_0: 262144
+[2022.11.13-18.41.17:665][846]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Footstep_Concrete_0...
+[2022.11.13-18.41.17:665][846]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Concrete_0.Footstep_Concrete_0 will be modified from 40 to 40.
+[2022.11.13-18.41.17:669][846]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 82292 while cooking SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Concrete_0.Footstep_Concrete_0.
+[2022.11.13-18.41.17:669][846]LogAudio: Display: Chunk size for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/Footstep_Concrete_0.Footstep_Concrete_0: 262144
+[2022.11.13-18.41.17:671][846]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave MetalStepA...
+[2022.11.13-18.41.17:671][846]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/MetalStepA.MetalStepA will be modified from 40 to 40.
+[2022.11.13-18.41.17:677][846]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 70560 while cooking SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/MetalStepA.MetalStepA.
+[2022.11.13-18.41.17:677][846]LogAudio: Display: Chunk size for SoundWave /Game/SuperGrid/TutorialLevel/SoundEffects/MetalStepA.MetalStepA: 262144
+[2022.11.13-18.41.17:686][846]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/FirstPerson/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.13-18.41.17:688][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.42.12:908][160]LogSlate: Took 0.004476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.13-18.42.28:820][698]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.42.28:845][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.42.28:846][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.42.28:846][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.42.28:847][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.42.28:847][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.42.28:847][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.42.28:847][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.42.28:848][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.42.28:852][698]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.42.28:852][698]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.42.28:853][698]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.42.28:996][698]LogUObjectHash: Compacting FUObjectHashTables data took  18.68ms
+[2022.11.13-18.42.37:811][ 45]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.42.37:827][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.42.37:828][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.42.37:828][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.42.37:828][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.42.37:829][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.42.37:829][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.42.37:829][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.42.37:829][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.42.37:833][ 45]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.42.37:833][ 45]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.42.37:833][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.42.37:845][ 45]LogClass: Warning: Type mismatch in PlayerHealth of BP_FirstPersonCharacter_C - Previous (BoolProperty) Current(DoubleProperty) for package:  FObjectReader
+[2022.11.13-18.42.37:928][ 45]LogUObjectHash: Compacting FUObjectHashTables data took  14.29ms
+[2022.11.13-18.43.28:980][320]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.43.28:995][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.43.28:996][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.43.28:996][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.43.28:996][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.43.28:997][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.43.28:997][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.43.28:997][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.43.28:997][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.43.29:001][320]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.43.29:002][320]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.43.29:002][320]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.43.29:084][320]LogUObjectHash: Compacting FUObjectHashTables data took  11.42ms
+[2022.11.13-18.43.39:478][565]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.43.39:495][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.43.39:496][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.43.39:496][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.43.39:496][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.43.39:496][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.43.39:497][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.43.39:497][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.43.39:497][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.43.39:503][565]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.43.39:503][565]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.43.39:503][565]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.43.39:580][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.13-18.44.10:750][295]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.44.10:764][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.44.10:765][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.44.10:767][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.44.10:767][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.44.10:767][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.44.10:768][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.44.10:768][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.44.10:768][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.44.10:775][295]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.44.10:776][295]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.44.10:776][295]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.44.10:858][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.13-18.44.20:865][658]LogEditorTransaction: Undo Edit Lives
+[2022.11.13-18.44.24:066][744]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.13-18.44.27:055][826]LogEditorTransaction: Undo Rename Variable
+[2022.11.13-18.44.29:387][880]LogEditorTransaction: Undo Add Variable
+[2022.11.13-18.44.31:163][920]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.44.31:181][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.44.31:182][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.44.31:182][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.44.31:182][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.44.31:182][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.44.31:183][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.44.31:183][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.44.31:183][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.44.31:188][920]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.44.31:188][920]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.44.31:189][920]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.44.31:256][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.13-18.44.32:495][947]LogEditorTransaction: Undo Edit Player Health
+[2022.11.13-18.44.33:431][978]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.13-18.44.34:129][994]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.13-18.44.35:247][ 18]LogEditorTransaction: Undo Change Parameter Type
+[2022.11.13-18.44.37:439][ 67]LogEditorTransaction: Undo Rename Variable
+[2022.11.13-18.44.38:357][ 86]LogEditorTransaction: Undo Add Variable
+[2022.11.13-18.44.39:486][111]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.44.39:501][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.44.39:502][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.44.39:502][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.44.39:503][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.44.39:503][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.44.39:503][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.44.39:504][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.44.39:504][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.44.39:509][111]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.44.39:510][111]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.44.39:510][111]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.44.39:588][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.13-18.44.40:790][138]LogEditorTransaction: Undo Move Node
+[2022.11.13-18.44.44:164][213]LogSavePackage: Moving output files for package: /Game/SuperGrid/TutorialLevel/Blueprints/FirstPerson/BP_FirstPersonCharacter
+[2022.11.13-18.44.44:166][213]LogSavePackage: Moving '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_FirstPersonCharacterC6F2A717409654D96F711D8C4208071A.tmp' to '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/SuperGrid/TutorialLevel/Blueprints/FirstPerson/BP_FirstPersonCharacter.uasset'
+[2022.11.13-18.44.44:190][213]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.11.13-18.44.44:190][213]LogContentValidation: Display: Validating Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/FirstPerson/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.13-18.44.48:208][308]Cmd: TRANSACTION UNDO
+[2022.11.13-18.44.48:208][308]LogEditorTransaction: Undo Create Binding
+[2022.11.13-18.44.48:716][315]Cmd: TRANSACTION UNDO
+[2022.11.13-18.44.48:716][315]LogEditorTransaction: Undo Delete current selection
+[2022.11.13-18.44.50:802][382]Cmd: TRANSACTION UNDO
+[2022.11.13-18.44.50:803][382]LogEditorTransaction: Undo Edit Specified Color
+[2022.11.13-18.44.53:695][451]Cmd: TRANSACTION UNDO
+[2022.11.13-18.44.53:695][451]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2022.11.13-18.44.57:857][550]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.44.57:874][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.44.57:876][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.44.57:876][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.44.57:876][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.44.57:877][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.44.57:877][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.44.57:877][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.44.57:878][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.44.57:882][550]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.44.57:883][550]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.44.57:883][550]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.44.57:955][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.11.13-18.45.00:873][618]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.11.13-18.45.00:902][618]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.45.00:902][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.45.28:453][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-18.45.28:463][437]BlueprintLog: Warning: Blueprint failed to compile:  BP_FirstPersonCharacter
+[2022.11.13-18.45.28:463][437]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.13-18.45.28:463][437]LogPlayLevel: [PlayLevel] Compiling Player_stats before play...
+[2022.11.13-18.45.28:465][437]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\UI\Player_stats.uasset: [Compiler] On Check State Changed (Life1)  does not have a valid matching component!
+[2022.11.13-18.45.28:520][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.13-18.45.28:527][437]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2022.11.13-18.45.28:529][437]LogCustomDialog: Dialog displayed:
+[2022.11.13-18.45.33:748][437]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.13-18.45.36:840][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-18.45.36:852][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-18.45.36:852][518]BlueprintLog: Warning: Blueprint failed to compile:  BP_FirstPersonCharacter
+[2022.11.13-18.45.36:852][518]LogCustomDialog: Dialog displayed:
+[2022.11.13-18.45.37:917][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/FirstPerson/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.13-18.45.37:918][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.45.38:372][518]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.13-18.46.12:211][568]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.46.12:230][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'CrouchInput' for  InputAction CrouchInput
+[2022.11.13-18.46.12:231][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.46.12:231][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.46.12:231][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.46.12:232][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.46.12:232][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.46.12:233][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.46.12:233][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.46.12:238][568]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.46.12:238][568]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.46.12:239][568]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.46.12:302][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.13-18.47.52:034][371]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.47.52:051][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.47.52:051][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.47.52:052][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.47.52:052][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.47.52:052][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.47.52:053][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.47.52:053][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.47.52:057][371]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.47.52:058][371]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.47.52:058][371]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.47.52:124][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.13-18.48.31:875][688]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.48.31:889][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.11.13-18.48.31:889][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.11.13-18.48.31:890][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.48.31:890][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.48.31:890][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.48.31:891][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.48.31:891][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.48.31:895][688]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "PlayCrouchAnimation" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Play Crouch Animation
+[2022.11.13-18.48.31:897][688]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "PlayCrouchAnimation" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Play Crouch Animation
+[2022.11.13-18.48.31:898][688]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.48.31:899][688]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.48.31:899][688]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.48.31:990][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.11.13-18.49.31:127][352]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.13-18.49.31:142][352]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.11.13-18.49.31:142][352]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.11.13-18.49.31:143][352]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.11.13-18.49.31:143][352]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.11.13-18.49.31:144][352]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.11.13-18.49.31:146][352]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "PlayCrouchAnimation" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Play Crouch Animation
+[2022.11.13-18.49.31:147][352]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "PlayCrouchAnimation" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Play Crouch Animation
+[2022.11.13-18.49.31:149][352]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.11.13-18.49.31:149][352]LogBlueprint: Error: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Plastic  no longer exists on node  Select . Please refresh node or break links to remove pin.
+[2022.11.13-18.49.31:149][352]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\SuperGrid\TutorialLevel\Blueprints\FirstPerson\BP_FirstPersonCharacter.uasset: [Compiler] Input pin  Metal  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.11.13-18.49.31:221][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.13-18.50.11:013][200]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.11.13-18.50.11:024][200]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.11.13-18.50.11:031][200]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.50.11:031][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.50.12:725][240]LogSlate: Window 'Message Log' being destroyed
+[2022.11.13-18.50.12:740][240]LogSlate: Window 'Message Log' being destroyed
+[2022.11.13-18.50.22:164][532]LogContentBrowser: Attempting asset rename: Level2 -> Level2
+[2022.11.13-18.50.24:108][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.13-18.50.31:812][580]LogSlate: Window 'Save Content' being destroyed
+[2022.11.13-18.50.31:888][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_stats" FILE="../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset" SILENT=true
+[2022.11.13-18.50.31:896][580]LogSavePackage: Moving output files for package: /Game/UI/Player_stats
+[2022.11.13-18.50.31:897][580]LogSavePackage: Moving '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Player_statsEDA6291441E94B202F437E80CE82BDB6.tmp' to '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset'
+[2022.11.13-18.50.31:904][580]Cmd: MAP LOAD FILE="../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.13-18.50.31:904][580]LightingResults: New page: Lighting Build
+[2022.11.13-18.50.31:909][580]LoadErrors: New page: Loading map: Level2.umap
+[2022.11.13-18.50.31:914][580]LogWorld: UWorld::CleanupWorld for Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.50.31:914][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.50.31:914][580]MapCheck: New page: Map Check
+[2022.11.13-18.50.31:914][580]LightingResults: New page: Lighting Build
+[2022.11.13-18.50.31:952][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-18.50.31:961][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.13-18.50.31:992][580]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.11.13-18.50.31:992][580]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-18.50.31:992][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.50.31:992][580]LogAIModule: Creating AISystem for world Level2
+[2022.11.13-18.50.32:021][580]LogStaticMesh: Display: Building static mesh SuperGrid_BoxCentered...
+[2022.11.13-18.50.32:021][580]LogStaticMesh: Built static mesh [0.01s] /Game/SuperGrid/StarterPack/Source/Meshes/SuperGrid_BoxCentered.SuperGrid_BoxCentered
+[2022.11.13-18.50.32:021][580]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.13-18.50.32:050][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.13-18.50.32:059][580]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.13-18.50.32:059][580]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2022.11.13-18.50.32:059][580]LogFileHelpers: Loading map 'Level2' took 0.155
+[2022.11.13-18.50.32:061][580]LogSlate: Window 'Open Level' being destroyed
+[2022.11.13-18.50.32:071][580]AssetCheck: New page: Asset Save: Player_stats
+[2022.11.13-18.50.32:071][580]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Player_stats.Player_stats
+[2022.11.13-18.50.39:713][748]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-18.50.39:723][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-18.50.39:723][748]BlueprintLog: Warning: Blueprint failed to compile:  BP_FirstPersonCharacter
+[2022.11.13-18.50.39:723][748]LogCustomDialog: Dialog displayed:
+[2022.11.13-18.50.42:401][748]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/FirstPerson/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.13-18.50.42:401][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.50.42:886][748]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.13-18.50.45:386][791]LogSlate: Window 'Message Log' being destroyed
+[2022.11.13-18.50.45:450][791]LogSlate: Window 'Message Log' being destroyed
+[2022.11.13-18.51.57:217][272]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.11.13-18.51.57:225][272]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.11.13-18.51.57:231][272]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.51.57:231][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.52.06:000][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.11.13-18.52.08:608][506]LogSlate: Window 'Save Content' being destroyed
+[2022.11.13-18.52.08:619][506]Cmd: MAP LOAD FILE="../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level_BallGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.13-18.52.08:619][506]LightingResults: New page: Lighting Build
+[2022.11.13-18.52.08:620][506]LoadErrors: New page: Loading map: Level_BallGame_1.umap
+[2022.11.13-18.52.08:621][506]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.52.08:621][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.52.08:622][506]MapCheck: New page: Map Check
+[2022.11.13-18.52.08:622][506]LightingResults: New page: Lighting Build
+[2022.11.13-18.52.08:645][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-18.52.08:647][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.13-18.52.08:649][506]LogLinker: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\Maps\Level_BallGame_1.umap: Failed to load '/Game/Maps/Level_BallGame_1_BuiltData': Can't find file.
+[2022.11.13-18.52.08:649][506]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Maps/Level_BallGame_1_BuiltData'
+[2022.11.13-18.52.08:654][506]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_BallGame_1'.
+[2022.11.13-18.52.08:654][506]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-18.52.08:654][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.52.08:654][506]LogAIModule: Creating AISystem for world Level_BallGame_1
+[2022.11.13-18.52.08:677][506]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.13-18.52.08:703][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.13-18.52.08:712][506]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.13-18.52.08:712][506]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2022.11.13-18.52.08:712][506]LogFileHelpers: Loading map 'Level_BallGame_1' took 0.094
+[2022.11.13-18.52.08:713][506]LogSlate: Window 'Open Level' being destroyed
+[2022.11.13-18.52.49:801][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.11.13-18.52.49:817][752]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_1
+[2022.11.13-18.52.49:818][752]LogSavePackage: Moving '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Level_BallGame_15541AAD649417F84C41FC7AD827B8B8F.tmp' to '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level_BallGame_1.umap'
+[2022.11.13-18.52.49:849][752]AssetCheck: New page: Asset Save: Level_BallGame_1
+[2022.11.13-18.52.49:849][752]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
+[2022.11.13-18.53.35:028][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2022.11.13-18.53.35:028][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.53.49:886][457]LogViewport: Scene viewport resized to 1136x618, mode Windowed.
+[2022.11.13-18.53.53:041][520]LogSlate: Window 'BP_Ball' being destroyed
+[2022.11.13-18.53.53:051][520]LogSlate: Window 'BP_Ball' being destroyed
+[2022.11.13-18.53.53:069][520]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.53.53:069][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.57.55:508][755]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-18.57.55:508][755]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-18.57.57:102][850]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-18.57.57:102][850]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-18.58.00:087][ 27]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-18.58.00:087][ 27]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-18.58.46:337][276]LogViewport: Scene viewport resized to 662x818, mode Windowed.
+[2022.11.13-18.58.47:514][314]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Player_stats.Player_stats
+[2022.11.13-18.58.47:514][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.58.47:552][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-18.58.48:006][314]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.13-18.58.48:006][314]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
