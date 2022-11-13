@@ -803,3 +803,38 @@ Recommended: 30.0.101.1340
 [2022.11.13-18.11.10:241][985]LogSavePackage: Moving '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Player_statsE3EFDFC54870B54625A28FAFECD18FBD.tmp' to '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset'
 [2022.11.13-18.11.10:258][985]AssetCheck: New page: Asset Save: Player_stats
 [2022.11.13-18.11.10:258][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Player_stats.Player_stats
+[2022.11.13-18.34.00:079][356]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.13-18.34.45:677][684]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.13-18.34.50:451][809]BlueprintLog: New page: Compile Player_stats
+[2022.11.13-18.34.50:458][809]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\UI\Player_stats.uasset: [Compiler] On Check State Changed (Life1)  does not have a valid matching component!
+[2022.11.13-18.34.50:556][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.11.13-18.34.51:466][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_stats" FILE="../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset" SILENT=true
+[2022.11.13-18.34.51:476][829]LogSavePackage: Moving output files for package: /Game/UI/Player_stats
+[2022.11.13-18.34.51:477][829]LogSavePackage: Moving '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Player_stats926D443341CBFF58E3A9E1AA671A1AFE.tmp' to '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset'
+[2022.11.13-18.34.51:491][829]AssetCheck: New page: Asset Save: Player_stats
+[2022.11.13-18.34.51:491][829]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Player_stats.Player_stats
+[2022.11.13-18.35.43:542][556]BlueprintLog: New page: Compile Player_stats
+[2022.11.13-18.35.43:546][556]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\UI\Player_stats.uasset: [Compiler] On Check State Changed (Life1)  does not have a valid matching component!
+[2022.11.13-18.35.43:595][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.13-18.35.44:497][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_stats" FILE="../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset" SILENT=true
+[2022.11.13-18.35.44:506][577]LogSavePackage: Moving output files for package: /Game/UI/Player_stats
+[2022.11.13-18.35.44:507][577]LogSavePackage: Moving '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Player_stats480E3C2B4C77346820496492BE785029.tmp' to '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset'
+[2022.11.13-18.35.44:518][577]AssetCheck: New page: Asset Save: Player_stats
+[2022.11.13-18.35.44:518][577]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Player_stats.Player_stats
+[2022.11.13-18.36.15:211][397]BlueprintLog: New page: Compile Player_stats
+[2022.11.13-18.36.15:216][397]LogBlueprint: Warning: [AssetLog] C:\Users\ashly\OsborneE_LeeA\OsborneE_LeeA\HW1\SpeedBallv1-MondayOct10102022\Content\UI\Player_stats.uasset: [Compiler] On Check State Changed (Life1)  does not have a valid matching component!
+[2022.11.13-18.36.15:268][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.13-18.36.16:458][428]LogDerivedDataCache: C:/Users/ashly/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.022 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.13-18.36.30:685][817]BlueprintLog: New page: Compile Player_stats
+[2022.11.13-18.36.30:740][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.11.13-18.36.31:482][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_stats" FILE="../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset" SILENT=true
+[2022.11.13-18.36.31:491][836]LogSavePackage: Moving output files for package: /Game/UI/Player_stats
+[2022.11.13-18.36.31:492][836]LogSavePackage: Moving '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Player_stats48C9E8204BE0894490A8FFAD64EF2C6E.tmp' to '../../../../../../Users/ashly/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/UI/Player_stats.uasset'
+[2022.11.13-18.36.31:502][836]AssetCheck: New page: Asset Save: Player_stats
+[2022.11.13-18.36.31:502][836]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Player_stats.Player_stats
+[2022.11.13-18.36.33:051][879]LogSlate: Window 'Player_stats' being destroyed
+[2022.11.13-18.36.33:090][879]LogSlate: Window 'Player_stats' being destroyed
+[2022.11.13-18.36.33:097][879]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.36.33:097][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-18.36.33:121][879]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-18.36.33:121][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
