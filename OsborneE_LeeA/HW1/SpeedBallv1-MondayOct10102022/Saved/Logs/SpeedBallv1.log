@@ -843,3 +843,14 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.14-20.38.01:399][805]LogSavePackage: Moving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Level_BallGame_1F42506624100AEC1DB94BBA95410141F.tmp' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level_BallGame_1.umap'
 [2022.11.14-20.38.01:419][805]AssetCheck: New page: Asset Save: Level_BallGame_1
 [2022.11.14-20.38.01:419][805]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
+[2022.11.14-20.39.07:463][853]LogSlate: Window 'PC_SpeedBall' being destroyed
+[2022.11.14-20.39.07:470][853]LogSlate: Window 'PC_SpeedBall' being destroyed
+[2022.11.14-20.39.07:473][853]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.14-20.39.07:473][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-20.39.14:555][521]LogViewport: Scene viewport resized to 1237x613, mode Windowed.
+[2022.11.14-20.39.14:608][521]LogViewport: Scene viewport resized to 1287x613, mode Windowed.
+[2022.11.14-20.39.14:670][521]LogViewport: Scene viewport resized to 1354x613, mode Windowed.
+[2022.11.14-20.39.14:730][521]LogViewport: Scene viewport resized to 1402x613, mode Windowed.
+[2022.11.14-20.39.14:784][521]LogViewport: Scene viewport resized to 1425x613, mode Windowed.
+[2022.11.14-20.39.14:845][521]LogViewport: Scene viewport resized to 1432x613, mode Windowed.
+[2022.11.14-20.39.14:899][521]LogViewport: Scene viewport resized to 1434x613, mode Windowed.
