@@ -920,3 +920,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.14-22.48.16:737][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2022.11.14-22.48.16:742][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
 [2022.11.14-22.48.16:814][275]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.11.14-22.50.21:327][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.14-22.50.21:337][ 44]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_1
+[2022.11.14-22.50.21:337][ 44]LogSavePackage: Moving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Level_BallGame_125A5C6F4461CFF3279B361942D40398A.tmp' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level_BallGame_1.umap'
+[2022.11.14-22.50.21:370][ 44]AssetCheck: New page: Asset Save: Level_BallGame_1
+[2022.11.14-22.50.21:370][ 44]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
