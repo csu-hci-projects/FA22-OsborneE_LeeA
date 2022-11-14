@@ -16337,3 +16337,8 @@ CubeBlock_Blueprint_C.ReceiveBeginPlay
 [2022.11.14-20.29.53:972][ 46]LogSavePackage: Moving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Level_BallGame_17591D227418C520837D7FCA4FD136438.tmp' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level_BallGame_1.umap'
 [2022.11.14-20.29.54:005][ 46]AssetCheck: New page: Asset Save: Level_BallGame_1
 [2022.11.14-20.29.54:006][ 46]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
+[2022.11.14-20.34.47:449][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.14-20.34.47:457][548]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_1
+[2022.11.14-20.34.47:458][548]LogSavePackage: Moving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Level_BallGame_1123DDF99402DDA90F9927F8C4679131F.tmp' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level_BallGame_1.umap'
+[2022.11.14-20.34.47:487][548]AssetCheck: New page: Asset Save: Level_BallGame_1
+[2022.11.14-20.34.47:487][548]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
