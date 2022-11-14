@@ -795,3 +795,140 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.14-20.50.57:030][180]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
 [2022.11.14-20.50.57:031][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.11.14-20.51.55:907][142]LogDerivedDataCache: C:/Users/ellery/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.017 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.14-20.58.43:634][522]BlueprintLog: New page: Compile BP_Ball
+[2022.11.14-20.58.43:676][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.14-20.58.44:566][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2022.11.14-20.58.44:571][612]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005451 seconds
+[2022.11.14-20.58.44:577][612]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ball
+[2022.11.14-20.58.44:577][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.45:078][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.45:578][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.46:080][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.46:580][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.47:081][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.47:582][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.48:083][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.48:584][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.49:085][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.58.49:594][612]LogFileManager: Error: Error moving file 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball4B6DA9B34C9D60B2B2A63BA752DED967.tmp'.
+[2022.11.14-20.58.49:594][612]LogSavePackage: Warning: Failed to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to temp directory
+[2022.11.14-20.58.49:594][612]LogSavePackage: Error: Error saving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset'
+[2022.11.14-20.59.00:181][612]LogSlate: Window 'Message' being destroyed
+[2022.11.14-20.59.00:189][612]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Blueprints/BP_Ball' (BP_Ball.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.14-20.59.00:189][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2022.11.14-20.59.00:195][612]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ball
+[2022.11.14-20.59.00:195][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.00:697][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.01:198][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.01:699][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.02:199][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.02:700][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.03:201][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.03:702][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.04:203][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.04:704][612]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.05:205][612]LogFileManager: Error: Error moving file 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_Ball5B1D1BD8478B5ECC3738E6B5991199AF.tmp'.
+[2022.11.14-20.59.05:205][612]LogSavePackage: Warning: Failed to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to temp directory
+[2022.11.14-20.59.05:205][612]LogSavePackage: Error: Error saving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset'
+[2022.11.14-20.59.27:735][612]LogSlate: Window 'Message' being destroyed
+[2022.11.14-20.59.27:744][612]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Blueprints/BP_Ball' (BP_Ball.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.14-20.59.27:754][612]EditorErrors: New page: Save Output
+[2022.11.14-20.59.27:754][612]EditorErrors: Warning: Error saving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset'
+[2022.11.14-20.59.27:754][612]EditorErrors: Warning: Error saving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset'
+[2022.11.14-20.59.29:832][612]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.11.14-20.59.29:841][612]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Blueprints/BP_Ball
+[2022.11.14-20.59.37:497][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2022.11.14-20.59.37:502][413]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ball
+[2022.11.14-20.59.37:502][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.38:003][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.38:504][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.39:005][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.39:506][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.40:007][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.40:508][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.41:009][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.41:510][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.42:011][413]LogFileManager: Warning: MoveFile was unable to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp' (Error Code 32), retrying in .5s...
+[2022.11.14-20.59.42:512][413]LogFileManager: Error: Error moving file 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/BP_BallAC805EC946D084BC53015E851C075A83.tmp'.
+[2022.11.14-20.59.42:512][413]LogSavePackage: Warning: Failed to move 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset' to temp directory
+[2022.11.14-20.59.42:512][413]LogSavePackage: Error: Error saving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset'
+[2022.11.14-20.59.44:450][413]LogSlate: Window 'Message' being destroyed
+[2022.11.14-20.59.44:459][413]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Blueprints/BP_Ball' (BP_Ball.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.14-20.59.44:463][413]EditorErrors: New page: Save Output
+[2022.11.14-20.59.44:463][413]EditorErrors: Warning: Error saving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Blueprints/BP_Ball.uasset'
+[2022.11.14-20.59.45:441][413]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.11.14-20.59.45:450][413]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Blueprints/BP_Ball
+[2022.11.14-20.59.48:824][781]LogSlate: Window 'Message Log' being destroyed
+[2022.11.14-20.59.48:831][781]LogSlate: Window 'Message Log' being destroyed
+[2022.11.14-20.59.59:086][973]LogEditorViewport: Clicking Background
+[2022.11.14-20.59.59:939][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.14-20.59.59:948][ 65]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_1
+[2022.11.14-20.59.59:949][ 65]LogSavePackage: Moving 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Saved/Level_BallGame_1AA84E59F4CEBF20F8988C59837512C2E.tmp' to 'D:/OsborneE_LeeA/OsborneE_LeeA/HW1/SpeedBallv1-MondayOct10102022/Content/Maps/Level_BallGame_1.umap'
+[2022.11.14-20.59.59:964][ 65]AssetCheck: New page: Asset Save: Level_BallGame_1
+[2022.11.14-20.59.59:964][ 65]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
+[2022.11.14-21.00.01:994][305]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.14-21.00.01:999][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.14-21.00.01:999][305]PIE: New page: PIE session: Level_BallGame_1 (Nov 14, 2022, 7:00:01 AM)
+[2022.11.14-21.00.02:027][305]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_BallGame_1
+[2022.11.14-21.00.02:029][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002836s)
+[2022.11.14-21.00.02:029][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_BallGame_1.Level_BallGame_1 to /Game/Maps/UEDPIE_0_Level_BallGame_1.Level_BallGame_1 (0.002934s)
+[2022.11.14-21.00.02:029][305]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.14-21.00.02:029][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.14-21.00.02:031][305]LogAIModule: Creating AISystem for world Level_BallGame_1
+[2022.11.14-21.00.02:031][305]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2022.11.14-21.00.02:051][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.14-21.00.02:052][305]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.14-21.00.02:052][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.14-21.00.02:052][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.14-21.00.02:052][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.14-21.00.02:052][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.14-21.00.02:052][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.14-21.00.02:052][305]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.14-21.00.02:052][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.14-21.00.02:052][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.14-21.00.02:052][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.14-21.00.02:052][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.14-21.00.02:052][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.14-21.00.02:054][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.14-21.00.02:070][305]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.11.14-21.00.02:070][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.14-21.00.02:070][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.14-21.00.02:070][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.14-21.00.02:071][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.14-21.00.02:071][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.14-21.00.02:072][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.14-21.00.02:072][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.14-21.00.02:072][305]LogInit: FAudioDevice initialized.
+[2022.11.14-21.00.02:072][305]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_BallGame_1'.
+[2022.11.14-21.00.02:085][305]LogLoad: Game class is 'GM_Speedball_C'
+[2022.11.14-21.00.02:086][305]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_BallGame_1.Level_BallGame_1 up for play (max tick rate 0) at 2022.11.14-14.00.02
+[2022.11.14-21.00.02:086][305]LogWorld: Bringing up level for play took: 0.000626
+[2022.11.14-21.00.02:087][305]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.11.14-21.00.02:089][305]PIE: Server logged in
+[2022.11.14-21.00.02:089][305]PIE: Play in editor total start time 0.091 seconds.
+[2022.11.14-21.00.07:577][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.14-21.00.07:577][944]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_BallGame_1
+[2022.11.14-21.00.07:577][944]LogWorld: UWorld::CleanupWorld for Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.14-21.00.07:578][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-21.00.07:585][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.14-21.00.07:587][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-21.00.07:606][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.14-21.00.07:607][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.14-21.00.07:608][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.14-21.00.07:611][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.14-21.00.07:613][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.14-21.00.07:643][945]LogPlayLevel: Display: Destroying online subsystem :Context_8
