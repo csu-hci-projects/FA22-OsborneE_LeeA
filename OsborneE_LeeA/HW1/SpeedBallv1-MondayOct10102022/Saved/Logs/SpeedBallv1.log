@@ -854,3 +854,54 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.14-20.39.14:784][521]LogViewport: Scene viewport resized to 1425x613, mode Windowed.
 [2022.11.14-20.39.14:845][521]LogViewport: Scene viewport resized to 1432x613, mode Windowed.
 [2022.11.14-20.39.14:899][521]LogViewport: Scene viewport resized to 1434x613, mode Windowed.
+[2022.11.14-21.09.01:955][514]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.14-21.09.01:961][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.14-21.09.01:961][514]PIE: New page: PIE session: Level_BallGame_1 (Nov 14, 2022, 7:09:01 AM)
+[2022.11.14-21.09.01:987][514]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_BallGame_1
+[2022.11.14-21.09.01:990][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002698s)
+[2022.11.14-21.09.01:990][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_BallGame_1.Level_BallGame_1 to /Game/Maps/UEDPIE_0_Level_BallGame_1.Level_BallGame_1 (0.002789s)
+[2022.11.14-21.09.01:990][514]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.14-21.09.01:990][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.14-21.09.01:990][514]LogAIModule: Creating AISystem for world Level_BallGame_1
+[2022.11.14-21.09.01:990][514]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2022.11.14-21.09.02:030][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.14-21.09.02:036][514]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.14-21.09.02:036][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.14-21.09.02:036][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.14-21.09.02:036][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.14-21.09.02:036][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.14-21.09.02:036][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.14-21.09.02:036][514]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.14-21.09.02:036][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.14-21.09.02:036][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.14-21.09.02:036][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.14-21.09.02:036][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.14-21.09.02:036][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.14-21.09.02:038][514]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.14-21.09.02:054][514]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.11.14-21.09.02:054][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.14-21.09.02:054][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.14-21.09.02:054][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.14-21.09.02:055][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.14-21.09.02:055][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.14-21.09.02:056][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.14-21.09.02:056][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.14-21.09.02:056][514]LogInit: FAudioDevice initialized.
+[2022.11.14-21.09.02:056][514]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_BallGame_1'.
+[2022.11.14-21.09.02:065][514]LogLoad: Game class is 'GM_Speedball_C'
+[2022.11.14-21.09.02:066][514]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_BallGame_1.Level_BallGame_1 up for play (max tick rate 0) at 2022.11.14-14.09.02
+[2022.11.14-21.09.02:066][514]LogWorld: Bringing up level for play took: 0.000672
+[2022.11.14-21.09.02:067][514]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.11.14-21.09.02:068][514]PIE: Server logged in
+[2022.11.14-21.09.02:069][514]PIE: Play in editor total start time 0.109 seconds.
+[2022.11.14-21.09.11:967][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.14-21.09.11:967][689]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_BallGame_1
+[2022.11.14-21.09.11:967][689]LogWorld: UWorld::CleanupWorld for Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.14-21.09.11:968][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-21.09.11:976][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.14-21.09.11:979][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-21.09.11:994][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.14-21.09.11:996][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.14-21.09.11:997][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.14-21.09.12:019][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.14-21.09.12:063][690]LogPlayLevel: Display: Destroying online subsystem :Context_8
