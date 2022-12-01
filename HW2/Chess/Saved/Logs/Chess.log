@@ -1467,3 +1467,42 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.01-23.08.00:758][157]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2022.12.01-23.08.00:759][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
 [2022.12.01-23.08.00:798][160]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.12.01-23.08.32:796][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.01-23.08.34:096][370]LogSlate: Window 'Save Content' being destroyed
+[2022.12.01-23.08.34:135][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="D:/OsborneE_LeeA/HW2/Chess/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.01-23.08.34:151][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.01-23.08.34:157][370]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.005143 seconds
+[2022.12.01-23.08.34:164][370]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.01-23.08.34:164][370]LogSavePackage: Moving 'D:/OsborneE_LeeA/HW2/Chess/Saved/VRTemplateMap78B9A2C24B1B0CD02AE0A7944C9665FC.tmp' to 'D:/OsborneE_LeeA/HW2/Chess/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.01-23.08.34:175][370]LogFileHelpers: Saving map 'VRTemplateMap' took 0.040
+[2022.12.01-23.08.34:181][370]LogStall: Shutdown...
+[2022.12.01-23.08.34:187][370]LogStall: Shutdown complete.
+[2022.12.01-23.08.34:216][370]LogSlate: Window 'Chess - Unreal Editor' being destroyed
+[2022.12.01-23.08.34:304][370]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.01-23.08.34:304][370]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.01-23.08.34:305][371]Cmd: QUIT_EDITOR
+[2022.12.01-23.08.34:305][371]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.01-23.08.34:307][371]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.01-23.08.34:307][371]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.01-23.08.34:307][371]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.01-23.08.34:837][371]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.01-23.08.34:837][371]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.01-23.08.34:837][371]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2022.12.01-23.08.34:837][371]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.01-23.08.34:837][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.01-23.08.34:839][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.01-23.08.36:117][371]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.01-23.08.36:118][371]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.12.01-23.08.36:125][371]LogExit: Preparing to exit.
+[2022.12.01-23.08.36:145][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.01-23.08.36:148][371]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
