@@ -1384,3 +1384,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.01-22.50.55:594][197]AssetCheck: New page: Asset Save: VRTemplateMap
 [2022.12.01-22.50.55:594][197]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2022.12.01-22.52.31:804][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.01-22.53.22:623][530]LogViewport: Scene viewport resized to 834x628, mode Windowed.
