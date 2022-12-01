@@ -2,6 +2,9 @@
 ﻿Log file open, 12/01/22 15:42:49
 =======
 <<<<<<< HEAD
+﻿Log file open, 12/01/22 15:42:49
+=======
+<<<<<<< HEAD
 ﻿Log file open, 12/01/22 11:32:43
 =======
 <<<<<<< HEAD
@@ -15,6 +18,7 @@
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -22,6 +26,9 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< HEAD
+LogWindows: Started CrashReportClient (pid=8300)
+=======
 <<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=8300)
 =======
@@ -39,6 +46,7 @@ LogWindows: Started CrashReportClient (pid=6204)
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: Chess
@@ -47,8 +55,9 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
 LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
-<<<<<<< HEAD
 LogCsvProfiler: Display: Metadata set : commandline="" D:/OsborneE_LeeA/HW2/Chess/Chess.uproject -EpicPortal -epicusername=elleryosb -epicuserid=4b9dbc3e1f924a1f94faebbeacdcc8a6 -epiclocale=en -epicsandboxid=ue""
+<<<<<<< HEAD
+=======
 LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
@@ -94,26 +103,29 @@ LogCsvProfiler: Display: Metadata set : commandline="" D:/OsborneE_LeeA/HW2/Ches
 LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/ashly/OsborneE_LeeA/HW2/Chess/Chess.uproject -EpicPortal -epicusername=EmberDrakon -epicuserid=20b610e1773446c2bd0ca1bad414fc7b -epiclocale=en -epicsandboxid=ue""
 >>>>>>> b8d37378529a89d5f0926f060badeb028bcfd5d7
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
+>>>>>>> main
 LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : loginid="693d5d384b1c9c6a6972eb95cf0b9778"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogPlatformFile: Not using cached read wrapper
-<<<<<<< HEAD
-LogStats: Stats thread started at 0.257391
-=======
-<<<<<<< HEAD
-LogStats: Stats thread started at 0.233267
+LogStats: Stats thread started at 0.240440
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-6FCC3C7D4EF115EC29D699A66EE36203
+         Session CrashGUID >   UECC-Windows-BB6A4C1C4250A6E38F10EEB3CC168BAE
          Session CrashGUID >====================================================
+<<<<<<< HEAD
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+=======
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogConfig: Display: Loading Mac ini files took 0.03 seconds
 LogConfig: Display: Loading IOS ini files took 0.03 seconds
 LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
 LogConfig: Display: Loading Android ini files took 0.03 seconds
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 LogConfig: Display: Loading Unix ini files took 0.04 seconds
 LogConfig: Display: Loading TVOS ini files took 0.04 seconds
@@ -140,13 +152,14 @@ LogConfig: Display: Loading Mac ini files took 0.03 seconds
 LogConfig: Display: Loading IOS ini files took 0.03 seconds
 <<<<<<< HEAD
 LogConfig: Display: Loading Android ini files took 0.04 seconds
+>>>>>>> main
 LogConfig: Display: Loading Unix ini files took 0.04 seconds
 LogConfig: Display: Loading TVOS ini files took 0.04 seconds
 LogConfig: Display: Loading Windows ini files took 0.04 seconds
-LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
-LogConfig: Display: Loading Linux ini files took 0.05 seconds
-=======
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
 LogConfig: Display: Loading Linux ini files took 0.04 seconds
+<<<<<<< HEAD
+=======
 LogConfig: Display: Loading Mac ini files took 0.02 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
 LogConfig: Display: Loading TVOS ini files took 0.03 seconds
@@ -158,10 +171,13 @@ LogConfig: Display: Loading Windows ini files took 0.03 seconds
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 LogPluginManager: Mounting Engine plugin Bridge
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin AISupport
@@ -208,15 +224,40 @@ LogPluginManager: Mounting Engine plugin AnimationSharing
 =======
 =======
 <<<<<<< HEAD
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin AISupport
-LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
 LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin IKRig
-LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
 LogPluginManager: Mounting Engine plugin CameraShakePreviewer
 LogPluginManager: Mounting Engine plugin GameplayCameras
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+=======
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin VariantManagerContent
@@ -283,13 +324,15 @@ LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
 LogPluginManager: Mounting Engine plugin CurveEditorTools
-LogPluginManager: Mounting Engine plugin DataValidation
->>>>>>> b8d37378529a89d5f0926f060badeb028bcfd5d7
+LogPluginManager: Mounting Engine plugin CryptoKeys
 LogPluginManager: Mounting Engine plugin EditorDebugTools
-LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
 LogPluginManager: Mounting Engine plugin GeometryMode
@@ -321,19 +364,24 @@ LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin BackChannel
 =======
 <<<<<<< HEAD
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin FacialAnimation
-=======
-<<<<<<< HEAD
-LogPluginManager: Mounting Engine plugin MaterialAnalyzer
-LogPluginManager: Mounting Engine plugin GeometryMode
 LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
-LogPluginManager: Mounting Engine plugin SequencerAnimTools
-LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
 LogPluginManager: Mounting Engine plugin PluginBrowser
-LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin DataValidation
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
 LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin BackChannel
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+=======
 LogPluginManager: Mounting Engine plugin AlembicImporter
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 LogPluginManager: Mounting Engine plugin ChaosCloth
@@ -367,6 +415,7 @@ LogPluginManager: Mounting Engine plugin ChaosClothEditor
 LogPluginManager: Mounting Engine plugin ChaosNiagara
 LogPluginManager: Mounting Engine plugin CharacterAI
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
 LogPluginManager: Mounting Engine plugin ChaosEditor
 LogPluginManager: Mounting Engine plugin CharacterAI
@@ -374,6 +423,9 @@ LogPluginManager: Mounting Engine plugin ChaosNiagara
 LogPluginManager: Mounting Engine plugin FullBodyIK
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin Niagara
+=======
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin Niagara
 LogPluginManager: Mounting Engine plugin AlembicImporter
 =======
 <<<<<<< HEAD
@@ -439,27 +491,40 @@ LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 =======
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin AlembicImporter
-LogPluginManager: Mounting Engine plugin SequencerAnimTools
-LogPluginManager: Mounting Engine plugin ChaosCloth
-LogPluginManager: Mounting Engine plugin CryptoKeys
 LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+<<<<<<< HEAD
+=======
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin UdpMessaging
 LogPluginManager: Mounting Engine plugin AndroidMedia
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
-LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
 LogPluginManager: Mounting Engine plugin PlanarCut
-LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin PythonScriptPlugin
-LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+=======
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
 LogPluginManager: Mounting Engine plugin SequencerScripting
@@ -470,16 +535,14 @@ LogPluginManager: Mounting Engine plugin TemplateSequence
 LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin OnlineBase
-LogPluginManager: Mounting Engine plugin AnimationSharing
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
-LogPluginManager: Mounting Engine plugin SkeletalReduction
-LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
-LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
 LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+=======
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 =======
@@ -507,12 +570,16 @@ LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
-LogPluginManager: Mounting Engine plugin AndroidPermission
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
 LogPluginManager: Mounting Engine plugin AppleImageUtils
 LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin AssetTags
+=======
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AssetTags
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
@@ -541,47 +608,45 @@ LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
-LogPluginManager: Mounting Engine plugin AssetTags
 LogPluginManager: Mounting Engine plugin AudioCapture
+<<<<<<< HEAD
+=======
 LogPluginManager: Mounting Engine plugin CableComponent
 <<<<<<< HEAD
 =======
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 LogPluginManager: Mounting Engine plugin ChunkDownloader
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin CableComponent
+=======
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GeometryProcessing
-<<<<<<< HEAD
-LogPluginManager: Mounting Engine plugin HairStrands
-LogPluginManager: Mounting Engine plugin GooglePAD
-=======
->>>>>>> b8d37378529a89d5f0926f060badeb028bcfd5d7
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin GooglePAD
-LogPluginManager: Mounting Engine plugin GeometryProcessing
-LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
->>>>>>> e3438a96ef141243e453eef0771551162a8e8052
 LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
-LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
 LogPluginManager: Mounting Engine plugin MeshModelingToolset
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
-LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin OpenXR
 LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin ResonanceAudio
-<<<<<<< HEAD
-=======
 LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
->>>>>>> b8d37378529a89d5f0926f060badeb028bcfd5d7
 LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin Synthesis
+<<<<<<< HEAD
+=======
 LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 <<<<<<< HEAD
@@ -594,8 +659,15 @@ LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 =======
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+=======
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
@@ -607,13 +679,17 @@ LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 =======
 >>>>>>> b8d37378529a89d5f0926f060badeb028bcfd5d7
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogPluginManager: Mounting Engine plugin InterchangeEditor
 LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin OnlineServices
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
-LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin OculusVR
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+<<<<<<< HEAD
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+=======
 <<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
@@ -630,25 +706,21 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
-=======
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
->>>>>>> e3438a96ef141243e453eef0771551162a8e8052
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+<<<<<<< HEAD
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+=======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
 >>>>>>> b8d37378529a89d5f0926f060badeb028bcfd5d7
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
@@ -673,17 +745,16 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
 =======
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
->>>>>>> b8d37378529a89d5f0926f060badeb028bcfd5d7
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
@@ -691,6 +762,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
 SourceControl: Source control is disabled
 SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.1.1
@@ -712,7 +784,6 @@ LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogHMD: Failed loading OVRPlugin 1.65.0
 LogInit: Build: ++UE5+Release-5.0-CL-20979098
 LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
@@ -787,6 +858,9 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
 [2022.12.01-22.42.50:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
 [2022.12.01-22.42.50:166][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
 [2022.12.01-22.42.50:166][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
@@ -1892,6 +1966,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.01-22.50.55:594][197]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2022.12.01-22.52.31:804][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2022.12.01-22.53.22:623][530]LogViewport: Scene viewport resized to 834x628, mode Windowed.
+<<<<<<< HEAD
+=======
 [2022.12.01-22.58.14:063][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2022.12.01-22.58.14:064][585]LogStall: Shutdown...
 [2022.12.01-22.58.14:068][585]LogStall: Shutdown complete.
@@ -9585,3 +9661,4 @@ An asset already exists at the import location: /Game/chess_peices/lewis-chessse
 >>>>>>> e3438a96ef141243e453eef0771551162a8e8052
 >>>>>>> 7604aaaed8507275e84c9340acd6596eaea1294f
 >>>>>>> 4d5c74a679cfb668929b5bb9c3b41991aa8df9eb
+>>>>>>> main
