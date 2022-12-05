@@ -72,8 +72,7 @@
 		{
 			"ShaderMapHash": "DAC567281CDED85CC4E4DCE31AA77CCFC2111EA5",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/VRTemplate/Blueprints/chessPieces/NewChess/Material"
+				"/Engine/VREditor/TransformGizmo/Xray"
 			]
 		},
 		{
@@ -271,15 +270,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C9B4F594A741E7F6F997C23D9700BA30848C8D68",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Steel"
-			]
-		},
-		{
 			"ShaderMapHash": "88998725E97B44D32279AF365C018DB5E8269BDB",
 			"Assets": [
 				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B4F594A741E7F6F997C23D9700BA30848C8D68",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
 			]
 		},
 		{
