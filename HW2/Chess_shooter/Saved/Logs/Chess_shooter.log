@@ -1371,3 +1371,9 @@ Script Stack (0 frames):
 [2022.12.05-04.57.17:412][859]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2022.12.05-04.57.24:941][741]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
 [2022.12.05-04.57.24:941][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-05.02.03:628][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.12.05-05.02.03:629][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/AI_Trial" FILE="D:/OsborneE_LeeA/HW2/Chess_shooter/Saved/Autosaves/Game/VRTemplate/Maps/AI_Trial_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.12.05-05.02.03:635][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/AI_Trial_Auto1
+[2022.12.05-05.02.03:635][916]LogSavePackage: Moving 'D:/OsborneE_LeeA/HW2/Chess_shooter/Saved/AI_Trial_Auto1DDA411774A569EEAEA57B3B39921A4EE.tmp' to 'D:/OsborneE_LeeA/HW2/Chess_shooter/Saved/Autosaves/Game/VRTemplate/Maps/AI_Trial_Auto1.umap'
+[2022.12.05-05.02.03:641][916]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/AI_Trial' took 0.041
+[2022.12.05-05.02.03:641][916]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
